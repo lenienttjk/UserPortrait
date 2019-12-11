@@ -1,0 +1,6 @@
+
+
+idea 设置JVM 内存
+-Xms: 最小堆内存
+-Xmx: 最大堆内存
+-XX:ReservedCodeCacheSize:是设置代码缓存的最大值

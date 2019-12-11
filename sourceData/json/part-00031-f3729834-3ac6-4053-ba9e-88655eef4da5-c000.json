@@ -1,0 +1,10 @@
+curl http://mini1:9200
+{
+"name": "node-102", "cluster_name": "my-application", "cluster_uuid" : "v-nwhc7ITsmVHECpNQYzHw", "version": {"number": "5.2.2",
+"build_hash": "57e20f3",
+"build_date": "2017-09-23T13:16:45.703Z",
+"build_snapshot": false,
+"lucene_version": "6.6.1"
+},
+"tagline": "You Know, for Search"
+}
